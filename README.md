@@ -90,6 +90,4 @@ This application allows users to:
 5.  Submit a pull request.
 
 ## Contact
-
-Fredrick M. Morara - momanyifredm@gmail.com - https://github.com/fredymorara
 Nyamare Richard nyamarerichard@gmail.com
