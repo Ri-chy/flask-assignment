@@ -92,3 +92,4 @@ This application allows users to:
 ## Contact
 
 Fredrick M. Morara - momanyifredm@gmail.com - https://github.com/fredymorara
+Nyamare Richard nyamarerichard@gmail.com
